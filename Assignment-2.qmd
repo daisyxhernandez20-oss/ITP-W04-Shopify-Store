@@ -120,4 +120,5 @@ Building this practice store as a direct recreation of the CPP Farm Store gave m
 # Appendix
 
 - GitHub Repository:https://github.com/daisyxhernandez20-oss/ITP-W04-Shopify-Store 
-- GitHub Pages Site: \[add your published site URL here\]
+- GitHub Pages Site: https://daisyxhernandez20-oss.github.io/ITP-W04-Shopify-Store/
+
