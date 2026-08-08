@@ -117,7 +117,7 @@ The first three categories map directly to what customers said they valued most 
 
 Building this practice store as a direct recreation of the CPP Farm Store gave me a hands-on way to work through several decisions I will need for the actual consulting project, since I am responsible for the Retailer Background Information and Current Retailing Strategy Methods sections of that deliverable. Choosing the target customer and product mix here is not a hypothetical exercise; it forced me to practice the exact task the Farm Store needs from us, matching product categories to who actually shops there, rather than starting from the products first. Setting up the Shopify theme and homepage also made me more aware of how much a store's *online* presentation communicates about its identity, which is directly relevant if the Farm Store consulting recommendations end up touching on omnichannel or e-commerce strategy. In short, this practice store is a low-risk sandbox for testing retail logic before applying it to the real client.
 
-# Appendix
+# Appendix 
 
 - GitHub Repository:https://github.com/daisyxhernandez20-oss/ITP-W04-Shopify-Store 
 - GitHub Pages Site: https://daisyxhernandez20-oss.github.io/ITP-W04-Shopify-Store/
